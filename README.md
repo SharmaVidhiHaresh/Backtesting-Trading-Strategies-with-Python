@@ -13,14 +13,14 @@ Traditional interpretation and usage of the RSI are that values of 70 or above i
 The shorter the time span used to create the average, the more sensitive it will be to price changes. The longer the time span, the less sensitive the average will be.
 upward momentum is confirmed with a bullish crossover, which occurs when a short-term moving average crosses above a longer-term moving average. Conversely, downward momentum is confirmed with a bearish crossover, which occurs when a short-term moving average crosses below a longer-term moving average.
 
-##Setting the stop-loss:
+## Setting the stop-loss:
 If the price closes 2% or more below 10-day MA, close the position, if any.
 
 ## Trade Set-Up
-##### Buy the position when:
+#### Buy the position when:
  * weekly RSI(30)  ≥  daily RSI(30)  >  70
  * Close  >  MA(10)  >  MA(20)  >  MA(50)  >  MA(100)
-##### Close the position when:
+#### Close the position when:
  * Daily close is more than 2% below MA(10)
  * 8% fixed stop loss is hit
 
