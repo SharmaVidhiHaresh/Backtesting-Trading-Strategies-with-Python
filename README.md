@@ -2,7 +2,7 @@
 We would backtest the cross-over trading strategy on Google Stock from Jan 2016 to June 2020.
 By using historical data, we can test the returns and risk of the employing Moving Average(MA) cross-over strategy and Relative Strength Index (RSI) strategy under various market conditions.
 
-<img src="/Pricing chart with technical indicator.png" >" >
+<img src="/Pricing chart with technical indicator.png" >
 
 # Basis of the strategy
 
