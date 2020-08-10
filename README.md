@@ -1,9 +1,9 @@
-# Backtesting-Trading-Strategies-w
+# Backtesting-Trading-Strategies-with Python
 We would backtest the cross-over trading strategy on Google Stock from Jan 2016 to June 2020.
 By using historical data, we can test the returns and risk of the employing Moving Average(MA) cross-over strategy and Relative Strength Index (RSI) strategy under various market conditions.
 
 
-#Basis of the strategy
+# Basis of the strategy
 
 ### Relative Strength Index (RSI)
 The relative strength index (RSI) is a momentum indicator used in technical analysis that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset.
