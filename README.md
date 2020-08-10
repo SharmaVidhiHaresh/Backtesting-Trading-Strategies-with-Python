@@ -4,7 +4,7 @@ By using historical data, we can test the returns and risk of the employing Movi
 
 <img src="/Pricing chart with technical indicator.png" >
 
-# Basis of the strategy
+# Premises of the strategy
 
 ### Relative Strength Index (RSI)
 The relative strength index (RSI) is a momentum indicator used in technical analysis that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset.
